@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **rodrigost23/rodrigost23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+[![Rodrigost23's github stats](https://github-readme-stats.vercel.app/api?username=rodrigost23&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigost23&layout=compact&hide=tex&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+[![Rodrigost23's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rodrigost23)](https://github.com/anuraghazra/github-readme-stats)
 -->
