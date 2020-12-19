@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 [![Rodrigost23's github stats](https://github-readme-stats.vercel.app/api?username=rodrigost23&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigost23&layout=compact&hide=tex&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigost23&layout=compact&hide=tex&langs_count=7&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Rodrigost23's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rodrigost23)](https://github.com/anuraghazra/github-readme-stats)
